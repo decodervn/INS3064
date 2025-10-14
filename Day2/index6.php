@@ -16,6 +16,6 @@
                 ";
         }
         ?>
-    <table>
+    </table>
 </body>
 </html>
