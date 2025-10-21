@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";   // Laragon/XAMPP mặc định
 $password = "";       // để trống
-$dbname = "LaptopShop";
+$dbname = "LoginReg";
 
 // 1. Kết nối MySQL (chưa chọn DB)
 $conn = new mysqli($servername, $username, $password);
